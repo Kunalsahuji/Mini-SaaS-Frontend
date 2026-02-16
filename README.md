@@ -51,6 +51,17 @@ https://mini-saa-s-frontend.vercel.app/
 
 
 ---
+## 🔑 Admin Demo Access
+
+To explore **admin features** (user management, role updates, subscription control), you can use the following demo admin credentials:
+
+**Email:** kunal@example.com  
+**Password:** Password123  
+
+> ⚠️ Note: Regular users cannot self-assign the `admin` role on the Mini SaaS platform.  
+> Use the above credentials only for testing and reviewing admin capabilities.
+
+---
 
 ## 🛠️ Tech Stack
 
